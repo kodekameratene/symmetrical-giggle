@@ -12,7 +12,7 @@ To test it out you may clone this repo or open it in [GitPod.io](https://gitpod.
 ``
 npm i ionic -g
 ``
-3. Then in navigate into run.it folder and serve the app:
+3. Then navigate into run.it folder and serve the app:
 ``
 cd run.it && ionic serve
 ``
