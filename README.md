@@ -9,11 +9,11 @@ To test it out you may clone this repo or open it in [GitPod.io](https://gitpod.
 
 1. Open a terminal.
 2. Install ionic:
-``bash
+``
 npm i ionic -g
 ``
 3. Then in navigate into run.it folder and serve the app:
-``bash
+``
 cd run.it && ionic serve
 ``
 
