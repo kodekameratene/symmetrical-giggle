@@ -1,5 +1,5 @@
 # symmetrical-giggle
-[![Open in Gitpod](https://gitpod.io/#https://github.com/kodekameratene/symmetrical-giggle)
+[![Open in Gitpod](https://gitpod.io/#https://github.com/kodekameratene/symmetrical-giggle)]
 
 This is a repo for experimenting with React.
 
