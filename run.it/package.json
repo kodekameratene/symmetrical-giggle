@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@ionic/react": "0.0.10",
-    "@ionic/react-router": "0.0.10",
+    "@ionic/react-router": "4.11.10",
     "@types/jest": "24.9.1",
     "@types/node": "11.15.5",
     "@types/react": "16.9.19",
