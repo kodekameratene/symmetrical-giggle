@@ -8,7 +8,7 @@
     "@types/jest": "26.0.15",
     "@types/node": "11.15.37",
     "@types/react": "16.14.1",
-    "@types/react-dom": "16.9.9",
+    "@types/react-dom": "16.9.10",
     "@types/react-router": "5.1.8",
     "@types/react-router-dom": "5.1.6",
     "ionicons": "5.2.3",
