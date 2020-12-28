@@ -9,7 +9,7 @@
     "@types/node": "11.15.42",
     "@types/react": "16.14.2",
     "@types/react-dom": "16.9.10",
-    "@types/react-router": "5.1.8",
+    "@types/react-router": "5.1.9",
     "@types/react-router-dom": "5.1.6",
     "ionicons": "5.2.3",
     "node-sass": "4.14.1",
