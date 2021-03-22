@@ -12,7 +12,7 @@
     "@types/react-router": "5.1.12",
     "@types/react-router-dom": "5.1.7",
     "ionicons": "5.5.1",
-    "node-sass": "4.14.1",
+    "node-sass": "5.0.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "react-router": "5.2.0",
